@@ -12,7 +12,6 @@
 - git: {local-name: graspit_bci_ws/src/graspit_speech_recognition_commands, uri: 'git@github.com:CURG-BCI/graspit_speech_recognition_commands.git', version: master}
 - git: {local-name: graspit_bci_ws/src/graspit_bci_plugin, uri: 'git@github.com:CURG-BCI/graspit_bci_plugin.git', version: master}
 - git: {local-name: graspit_bci_ws/src/graspit-ros, uri: 'git@github.com:CURG-BCI/graspit-ros.git', version: master}
-- git: {local-name: graspit_bci_ws/src/graspit-ros/graspit/graspit_source, uri: 'git@github.com:CURG-BCI/graspit.git', version: master}
 - git: {local-name: graspit_bci_ws/src/graspit_threshold_controller, uri: 'git@github.com:CURG-BCI/graspit_threshold_controller.git', version: master}
 
 
