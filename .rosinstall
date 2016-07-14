@@ -6,6 +6,7 @@
 - git: {local-name: bci_project_ws/src/lcsr_tf_tools, uri: 'git@github.com:CURG-BCI/lcsr_tf_tools.git', version: master}
 - git: {local-name: bci_project_ws/src/moveit_trajectory_planner, uri: 'git@github.com:CURG-BCI/moveit_trajectory_planner.git', version: master}
 - git: {local-name: bci_project_ws/src/pc_filter, uri: 'git@github.com:CURG-BCI/pc_filter.git', version: master}
+- git: {local-name: bci_project_ws/src/mvp_objrec, uri: 'git@github.com:CURG/mvp_objrec.git', version: adding_service}
 
 
 - git: {local-name: graspit_bci_ws/src/graspit_msgs, uri: 'git@github.com:CURG-BCI/graspit_msgs.git', version: master}
