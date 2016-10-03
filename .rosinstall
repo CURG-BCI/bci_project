@@ -5,7 +5,7 @@
 - git: {local-name: bci_project_ws/src/moveit_trajectory_planner, uri: 'git@github.com:CURG-BCI/moveit_trajectory_planner.git', version: master}
 - git: {local-name: bci_project_ws/src/object_models, uri: 'git@github.com:CURG-BCI/object_models.git', version: master}
 - git: {local-name: bci_project_ws/src/pc_filter, uri: 'git@github.com:CURG-BCI/pc_filter.git', version: master}
-- git: {local-name: bci_project_ws/src/model_rec2, uri: 'git@github.com:CURG-BCI/model_rec2.git', version: master}
+- git: {local-name: bci_project_ws/src/mvp_objrec, uri: 'git@github.com:CURG-BCI/mvp_objrec.git', version: master}
 
 
 - git: {local-name: graspit_bci_ws/src/graspit_bci_plugin, uri: 'git@github.com:CURG-BCI/graspit_bci_plugin.git', version: master}
