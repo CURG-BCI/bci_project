@@ -6,6 +6,8 @@
 - git: {local-name: bci_project_ws/src/object_models, uri: 'git@github.com:CURG-BCI/object_models.git', version: master}
 - git: {local-name: bci_project_ws/src/pc_filter, uri: 'git@github.com:CURG-BCI/pc_filter.git', version: master}
 - git: {local-name: bci_project_ws/src/mvp_objrec, uri: 'git@github.com:CURG-BCI/mvp_objrec.git', version: master}
+- git: {local-name: bci_project_ws/src/filter_tf, uri: 'git@github.com:CURG/filter_tf.git', version: master}
+- git: {local-name: bci_project_ws/src/table_detector, uri: 'git@github.com:CURG/table_detector.git', version: master}
 
 
 - git: {local-name: graspit_bci_ws/src/graspit_bci_plugin, uri: 'git@github.com:CURG-BCI/graspit_bci_plugin.git', version: master}
