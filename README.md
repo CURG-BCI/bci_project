@@ -8,8 +8,10 @@ How to run:
 
 ### dependencies
 
-1. sudo pip install ipdb
-2. sudo apt-get install ros-indigo-trac-ik
-3. sudo apt-get install ros-indigo-moveit-*
+1. `sudo pip install ipdb`
+2. `sudo apt-get install ros-indigo-trac-ik`
+3. `sudo apt-get install ros-indigo-moveit-*`
 4. https://github.com/OpenKinect/libfreenect2
 5. https://github.com/code-iai/iai_kinect2
+6. `sudo aptitude install nvidia-361`
+7. cuda 7.5
