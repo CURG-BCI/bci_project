@@ -17,3 +17,4 @@ How to run:
 7. cuda 7.5
 8. sudo apt-get install libfreenect-dev
 9. sudo apt-get install ros-indigo-freenect-launch
+10. sudo apt-get install ros-indigo-ivcon
