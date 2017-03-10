@@ -1,21 +1,41 @@
-
-- git: {local-name: bci_project_ws/src/bci_experiment_launch, uri: 'git@github.com:CURG-BCI/bci_experiment_launch.git', version: master}
-- git: {local-name: bci_project_ws/src/graspit_msgs, uri: 'git@github.com:CURG-BCI/graspit_msgs.git', version: master}
-- git: {local-name: bci_project_ws/src/lcsr_tf_tools, uri: 'git@github.com:CURG-BCI/lcsr_tf_tools.git', version: master}
-- git: {local-name: bci_project_ws/src/moveit_trajectory_planner, uri: 'git@github.com:CURG-BCI/moveit_trajectory_planner.git', version: master}
-- git: {local-name: bci_project_ws/src/object_models, uri: 'git@github.com:CURG-BCI/object_models.git', version: master}
-- git: {local-name: bci_project_ws/src/pc_filter, uri: 'git@github.com:CURG-BCI/pc_filter.git', version: master}
-- git: {local-name: bci_project_ws/src/mvp_objrec, uri: 'git@github.com:CURG-BCI/mvp_objrec.git', version: master}
-- git: {local-name: bci_project_ws/src/filter_tf, uri: 'git@github.com:CURG/filter_tf.git', version: master}
-- git: {local-name: bci_project_ws/src/table_detector, uri: 'git@github.com:CURG/table_detector.git', version: master}
-
-
-- git: {local-name: graspit_bci_ws/src/graspit_bci_plugin, uri: 'git@github.com:CURG-BCI/graspit_bci_plugin.git', version: master}
-- git: {local-name: graspit_bci_ws/src/graspit_msgs, uri: 'git@github.com:CURG-BCI/graspit_msgs.git', version: master}
-- git: {local-name: graspit_bci_ws/src/graspit-ros, uri: 'git@github.com:CURG-BCI/graspit-ros.git', version: master}
-- git: {local-name: graspit_bci_ws/src/graspit_speech_recognition_commands, uri: 'git@github.com:CURG-BCI/graspit_speech_recognition_commands.git', version: master}
-- git: {local-name: graspit_bci_ws/src/graspit_threshold_controller, uri: 'git@github.com:CURG-BCI/graspit_threshold_controller.git', version: master}
-
-
-- git: {local-name: jaco_ws/src/kinova-ros, uri: 'git@github.com:CURG-BCI/kinova-ros.git', version: master}
-- git: {local-name: jaco_ws/src/mico_moveit_config, uri: 'git@github.com:CURG-BCI/mico_moveit_config.git', version: master}
+# IT IS UNLIKELY YOU WANT TO EDIT THIS FILE BY HAND,
+# UNLESS FOR REMOVING ENTRIES.
+# IF YOU WANT TO CHANGE THE ROS ENVIRONMENT VARIABLES
+# USE THE rosinstall TOOL INSTEAD.
+# IF YOU CHANGE IT, USE rosinstall FOR THE CHANGES TO TAKE EFFECT
+- git: {local-name: bci_project_ws/src/bci_experiment_launch, uri: 'git@github.com:CURG-BCI/bci_experiment_launch.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/graspit_msgs, uri: 'git@github.com:CURG-BCI/graspit_msgs.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/lcsr_tf_tools, uri: 'git@github.com:CURG-BCI/lcsr_tf_tools.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/moveit_trajectory_planner, uri: 'git@github.com:CURG-BCI/moveit_trajectory_planner.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/object_models, uri: 'git@github.com:CURG-BCI/object_models.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/pc_filter, uri: 'git@github.com:CURG-BCI/pc_filter.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/mvp_objrec, uri: 'git@github.com:CURG-BCI/mvp_objrec.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/filter_tf, uri: 'git@github.com:CURG/filter_tf.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/ar_tracking, uri: 'git@github.com:CURG-BCI/ar_tracking.git',
+    version: master}
+- git: {local-name: bci_project_ws/src/world_manager, uri: 'git@github.com:CURG-BCI/world_manager.git',
+    version: master}
+- git: {local-name: graspit_bci_ws/src/graspit_bci_plugin, uri: 'git@github.com:CURG-BCI/graspit_bci_plugin.git',
+    version: master}
+- git: {local-name: graspit_bci_ws/src/graspit_msgs, uri: 'git@github.com:CURG-BCI/graspit_msgs.git',
+    version: master}
+- git: {local-name: graspit_bci_ws/src/graspit-ros, uri: 'git@github.com:CURG-BCI/graspit-ros.git',
+    version: master}
+- git: {local-name: graspit_bci_ws/src/graspit_speech_recognition_commands, uri: 'git@github.com:CURG-BCI/graspit_speech_recognition_commands.git',
+    version: master}
+- git: {local-name: graspit_bci_ws/src/graspit_threshold_controller, uri: 'git@github.com:CURG-BCI/graspit_threshold_controller.git',
+    version: master}
+- git: {local-name: graspit_bci_ws/src/graspit_alexa_controller, uri: 'git@github.com:CURG-BCI/graspit_alexa_controller.git',
+    version: master}
+- git: {local-name: jaco_ws/src/kinova-ros, uri: 'git@github.com:CURG-BCI/kinova-ros.git',
+    version: master}
+- git: {local-name: jaco_ws/src/mico_moveit_config, uri: 'git@github.com:CURG-BCI/mico_moveit_config.git',
+    version: master}
