@@ -12,7 +12,7 @@
 - git: {local-name: bci_project_ws/src/pc_filter, uri: 'git@github.com:CURG-BCI/pc_filter.git', version: master}
 - git: {local-name: bci_project_ws/src/mvp_objrec, uri: 'git@github.com:CURG-BCI/mvp_objrec.git', version: master}
 - git: {local-name: bci_project_ws/src/filter_tf, uri: 'git@github.com:CURG/filter_tf.git', version: master}
-- git: {local-name: bci_project_ws/src/ar_tracking, uri: 'git@github.com:CURG/ar_tracking.git', version: master}
+- git: {local-name: bci_project_ws/src/ar_tracking, uri: 'git@github.com:CURG-BCI/ar_tracking.git', version: master}
 - git: {local-name: bci_project_ws/src/world_manager, uri: 'git@github.com:CURG-BCI/world_manager.git', version: master}
 
 - git: {local-name: graspit_bci_ws/src/graspit_bci_plugin, uri: 'git@github.com:CURG-BCI/graspit_bci_plugin.git', version: master}
