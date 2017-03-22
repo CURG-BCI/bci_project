@@ -21,6 +21,7 @@
 - git: {local-name: graspit_bci_ws/src/graspit_threshold_controller, uri: 'git@github.com:CURG-BCI/graspit_threshold_controller.git', version: master}
 - git: {local-name: graspit_bci_ws/src/graspit_alexa_controller, uri: 'git@github.com:CURG-BCI/graspit_alexa_controller.git', version: master}
 - git: {local-name: graspit_bci_ws/src/run_experiment, uri: 'git@github.com:CURG-BCI/run_experiment.git', version: master}
+- git: {local-name: graspit_bci_ws/src/graspit_switch_controller, uri: 'git@github.com:CURG-BCI/graspit_switch_controller.git', version: master}
 
 - git: {local-name: jaco_ws/src/kinova-ros, uri: 'git@github.com:CURG-BCI/kinova-ros.git', version: master}
 - git: {local-name: jaco_ws/src/mico_moveit_config, uri: 'git@github.com:CURG-BCI/mico_moveit_config.git', version: master}
