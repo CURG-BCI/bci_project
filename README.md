@@ -18,3 +18,4 @@ How to run:
 8. sudo apt-get install libfreenect-dev
 9. sudo apt-get install ros-indigo-freenect-launch
 10. sudo apt-get install ros-indigo-ivcon
+11. sudo apt-get install python-imaging-tk
