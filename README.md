@@ -18,3 +18,6 @@ How to run:
 8. sudo apt-get install libfreenect-dev
 9. sudo apt-get install ros-indigo-freenect-launch
 10. sudo apt-get install ros-indigo-ivcon
+11. sudo apt-get install python-imaging-tk
+12. sudo apt-get install portaudio19-dev
+13. sudo pip install pyaudio
